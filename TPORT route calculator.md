@@ -1,3 +1,5 @@
+# Python Koduyla GSP Çözümü
+
 Bu Python kodu, iki şehir arasındaki mesafeleri içeren bir CSV dosyasını okuyarak Gezgin Satıcı Problemi (GSP) için bir çözüm sunmaktadır. Kod, başlangıç şehri olarak kullanıcıdan bir şehir alır, şehirler arasındaki mesafe matrisini oluşturur ve ardından GSP için başlangıç rotasını ve maliyetini hesaplar. Daha sonra, 2-Opt iyileştirme algoritması kullanarak rotayı optimize eder ve yeni maliyeti hesaplar.
 
 ### Detaylı Açıklama:
